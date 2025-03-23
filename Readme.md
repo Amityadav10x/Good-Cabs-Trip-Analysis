@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Goodcabs Analysis Project README</title>
+    
 </head>
 <body>
     <header>
         <h1>Goodcabs Transportation Analysis</h1>
     </header>
 
-    <section id="project-overview">
+<section id="project-overview">
         <h2>Project Overview</h2>
         <p>This project was completed as part of the Codebasics RPC13 Resume Challenge. The analysis focuses on understanding operational efficiency, passenger behaviors, and business opportunities for Goodcabs in tier-2 cities using multiple datasets. The project leverages Power BI for interactive dashboards and SQL for data preparation and insights generation.</p>
     </section>
 
-    <section id="key-features">
+  <section id="key-features">
         <h2>Key Features</h2>
         <ul>
             <li>Interactive multi-page Power BI dashboard for exploring key metrics and trends.</li>
@@ -24,7 +24,7 @@
         </ul>
     </section>
 
-    <section id="datasets-used">
+  <section id="datasets-used">
         <h2>Datasets Used</h2>
         <ul>
             <li><strong>fact_trips:</strong> Contains details on trip distance, fare, and ratings.</li>
@@ -37,7 +37,7 @@
         </ul>
     </section>
 
-    <section id="key-findings">
+  <section id="key-findings">
         <h2>Key Findings and Insights</h2>
         <ul>
             <li><strong>Revenue Growth:</strong> Achieved an 11% increase in monthly revenue, with actionable insights to improve further.</li>
@@ -48,7 +48,7 @@
         </ul>
     </section>
 
-    <section id="recommendations">
+  <section id="recommendations">
         <h2>Recommendations</h2>
         <ul>
             <li>Introduce eco-friendly initiatives like integrating electric vehicles to appeal to environmentally conscious customers.</li>
@@ -59,7 +59,7 @@
         </ul>
     </section>
 
-    <section id="dashboard-links">
+  <section id="dashboard-links">
         <h2>Interactive Dashboard and Insights</h2>
         <p>Explore the full interactive dashboard and quick insights:</p>
         <ul>
@@ -68,7 +68,7 @@
         </ul>
     </section>
 
-    <footer>
+  <footer>
         <p><strong>Skills Showcased:</strong> Power BI, SQL, Data Visualization, Data Analysis, Data Collection</p>
     </footer>
 </body>
